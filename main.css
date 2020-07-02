@@ -1,0 +1,80 @@
+/* #container { 
+    color:chartreuse !important; 
+}
+
+#container { 
+    color: red; 
+}
+
+.mainContainer{
+    color:green;
+}
+
+div { 
+    color: blue;
+}  */
+
+div.mainContainer {     
+    color:lavender;
+}
+
+.mainContainer div {
+    color:firebrick;
+}
+
+.mainContainer {
+    color:green;
+}
+
+div div{
+    color:brown;
+}
+
+
+div { 
+    color:violet;
+}
+
+body div div{
+    color:red;
+}
+
+html body div div{
+    color:peru;
+}
+
+#container {
+    color:black;
+}
+#container {
+    color:olive;
+}
+div .mainContainer {
+    color:grey;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+   }
+
+@font-face {
+font-family: Fancy;
+src: url('ExtraOrnamentalNo2.ttf');
+}
+.my_class {
+font-family: Fancy;
+font-size: 3.2em;
+}
+/* p {
+    font-style: italic;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: underline;
+    } */
+
+.alignContainer{
+    text-align:right;
+}
+.lineHeight{
+    line-height:30px;
+}
